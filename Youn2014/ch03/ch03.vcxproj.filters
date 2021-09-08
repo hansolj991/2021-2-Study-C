@@ -15,21 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="소스12.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스13.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스14.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스15.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="소스16.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1.SimpleAddOne.50p.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -64,6 +49,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="12.SimpleAddThree.71p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="13.SimpleAddFour.73p.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
