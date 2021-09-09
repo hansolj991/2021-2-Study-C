@@ -14,4 +14,27 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.SizeOfOperator.109p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2.CharShortBase.110p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3.CircleArea.113p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.HowChar.117p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="5.LiteralSize.122p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6.AutoConvOne.126p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7.ConvDiv.129p.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>

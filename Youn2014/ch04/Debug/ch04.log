@@ -1,2 +1,14 @@
-﻿  8.BitRightShift.100p.c
-  ch04.vcxproj -> C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\Debug\ch04.exe
+﻿  1.Notation.85p.c
+  2.FloatErrorr.91p.c
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch03\2.FloatErrorr.91p.c(9,13): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  3.BitAndOperation.93p.c
+  4.BitOroperation.95p.c
+  코드를 생성하고 있습니다...
+2.FloatErrorr.91p.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+3.BitAndOperation.93p.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+4.BitOroperation.95p.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+5.BitXorOperation.96p.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+6.BitNotOperation.97.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+7.BitLeftShift.98p.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+8.BitRightShift.100p.obj : error LNK2005: _main이(가) 1.Notation.85p.obj에 이미 정의되어 있습니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\Debug\ch04.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

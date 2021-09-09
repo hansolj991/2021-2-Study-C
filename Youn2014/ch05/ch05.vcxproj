@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.SizeOfOperator.109p.c" />
+    <ClCompile Include="2.CharShortBase.110p.c" />
+    <ClCompile Include="3.CircleArea.113p.c" />
+    <ClCompile Include="4.HowChar.117p.c" />
+    <ClCompile Include="5.LiteralSize.122p.c" />
+    <ClCompile Include="6.AutoConvOne.126p.c" />
+    <ClCompile Include="7.ConvDiv.129p.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>

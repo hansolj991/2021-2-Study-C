@@ -1,0 +1,26 @@
+﻿  4.Using.141p.c
+  5.UsingPS.142p.c
+  6.FieldWidth.143p.c
+  7.ScanfConvOne.144p.c
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\7.ScanfConvOne.144p.c(6,9): warning C4477: 'printf' : 서식 문자열 '%5d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\7.ScanfConvOne.144p.c(7,9): warning C4477: 'printf' : 서식 문자열 '%5d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\7.ScanfConvOne.144p.c(8,9): warning C4477: 'printf' : 서식 문자열 '%5d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'char *'입니다.
+  8.ScanfConvTwo.145p.c
+  1.StringPrint.134p.c
+  2.FormPrintf.137p.c
+  3.OctHex.139p.c
+  9.ScanfConvTwo.145p.c
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\9.ScanfConvTwo.145p.c(14,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double *'입니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\9.ScanfConvTwo.145p.c(14,10): message : 서식 문자열에서 '%lf'을(를) 사용하는 것이 좋습니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\9.ScanfConvTwo.145p.c(18,10): warning C4477: 'scanf_s' : 서식 문자열 '%f'에 'float *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long double *'입니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\ch05\9.ScanfConvTwo.145p.c(18,10): message : 서식 문자열에서 '%Lf'을(를) 사용하는 것이 좋습니다.
+  코드를 생성하고 있습니다...
+5.UsingPS.142p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+6.FieldWidth.143p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+7.ScanfConvOne.144p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+8.ScanfConvTwo.145p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+1.StringPrint.134p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+2.FormPrintf.137p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+3.OctHex.139p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+9.ScanfConvTwo.145p.obj : error LNK2005: _main이(가) 4.Using.141p.obj에 이미 정의되어 있습니다.
+C:\Users\82109\Desktop\github\2021-2-Study-C\Youn2014\Debug\ch06.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
