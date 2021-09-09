@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1.SimpleWhile.149p.c" />
+    <ClCompile Include="2.NineNineDan.153p.c" />
+    <ClCompile Include="3.TwoToNine.156p.c" />
+    <ClCompile Include="4.UsefulDoWhile.160p.c" />
+    <ClCompile Include="5.AddToNum.165p.c" />
+    <ClCompile Include="6.RealMean.166p.c" />
+    <ClCompile Include="7.TwoToNineForVer.168p.c" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
